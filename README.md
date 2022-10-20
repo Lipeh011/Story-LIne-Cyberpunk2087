@@ -1,5 +1,5 @@
 # Story-LIne-Cyberpunk2087
-Livro jogo proposto pelo professor Gabriel pelo Instituto PROA.
+Livro jogo proposto pelo professor Gabriel no Instituto PROA.
  
    Historia
    
