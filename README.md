@@ -6,7 +6,8 @@
 <br>
 <h2> A nossa história, se passa em um mundo muito tecnológico, onde os seres humanos tem total acesso com às tecnologias. Mais de 60% das profissões deixaram de existir, porque foram substituídas pelas inteligências artificiais. Muitas pessoas ficaram sem emprego, e isso deixou elas revoltadas, milhares de pessoas vão as ruas para protestar, inclusive praticando diversos atos de vandalismo contra as máquinas e as empresas que fabricam elas. Essas grandes corporações, decidem criar uma realidade virtual, para controlar quem ficou contra as máquinas. O que será dessas pessoas manipuladas? </h2>
 
-<img align='center' src='imgs/print.png' />
+<img align='center' src=![storyline](https://user-images.githubusercontent.com/110691973/197635915-74df2187-40d4-436b-9076-8476743bb91e.png)
+'' />
 <br>
 <img align='center' src='imgs/print2.png' />
 <br>
