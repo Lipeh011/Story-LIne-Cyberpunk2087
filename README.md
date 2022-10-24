@@ -9,8 +9,10 @@
 <img align='center' src=![storyline](https://user-images.githubusercontent.com/110691973/197635915-74df2187-40d4-436b-9076-8476743bb91e.png)
 '' />
 <br>
-<img align='center' src='imgs/print2.png' />
+<img align='center' src='![stortline2](https://user-images.githubusercontent.com/110691973/197636055-0897c05d-6c1f-4fa0-a7c6-3a48390e2fc8.png)
+ ' />
 <br>
+
 
 <h2>🎞️ Link do teaser:</h2>
 <h3>
