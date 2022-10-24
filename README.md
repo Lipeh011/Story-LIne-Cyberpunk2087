@@ -11,7 +11,7 @@ CSS3
 Javascript
 
 
-<h1 align='center'>CyberPunk 2022</h1>
+<h1 align='center'>CyberPunk 2087</h1>
 <h2>Objetivo do projeto era desenvolver um livro jogo, onde o leitor poderá escolher quais decisões tomar.</h2>
 <br>
 <img align='center' src='imgs/print.png' />
